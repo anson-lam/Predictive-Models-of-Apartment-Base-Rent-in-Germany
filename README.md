@@ -1,5 +1,8 @@
 # Predictive-Models-of-Apartment-Base-Rent-in-Germany
 
+## Dataset
+1. Download the dataset at https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany.
+
 ## MultipleLinearRegression.py
 1. Ensure you have the dataset downloaded and pasted the correct file path in the pd.read_csv function under the import statements
 2. Ensure you have tensorflow correctly installed on your computer
