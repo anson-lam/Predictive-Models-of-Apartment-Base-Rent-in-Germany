@@ -12,7 +12,7 @@
 2. Ensure you have tensorflow correctly installed on your computer
 3.	To get the best results, directly run the file.
 4.	To get the alternative results, comment codes of dropping N/A values on line 81, then uncomment codes of filling N/A values with means on line 85 and 88, finally run the file.
-5.	No hyperparameter tuning is applicable.
+5.	To get the results of different number of components, set the it as various numbers.
 
 ## SupportVectorRegression.py
 1. Ensure you have the dataset downloaded and pasted the correct file path in the pd.read_csv function under the import statements
